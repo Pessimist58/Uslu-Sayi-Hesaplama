@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Uslu_sayı_hesaplama/1.0.0": {
+        "runtime": {
+          "Uslu_sayı_hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uslu_sayı_hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

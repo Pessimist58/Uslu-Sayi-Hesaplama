@@ -1,0 +1,14 @@
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\bin\Debug\net8.0\Uslu_sayı_hesaplama.exe
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\bin\Debug\net8.0\Uslu_sayı_hesaplama.deps.json
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\bin\Debug\net8.0\Uslu_sayı_hesaplama.runtimeconfig.json
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\bin\Debug\net8.0\Uslu_sayı_hesaplama.dll
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\bin\Debug\net8.0\Uslu_sayı_hesaplama.pdb
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\obj\Debug\net8.0\Uslu_sayı_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\obj\Debug\net8.0\Uslu_sayı_hesaplama.AssemblyInfoInputs.cache
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\obj\Debug\net8.0\Uslu_sayı_hesaplama.AssemblyInfo.cs
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\obj\Debug\net8.0\Uslu_sayı_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\obj\Debug\net8.0\Uslu_sayı_hesaplama.dll
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\obj\Debug\net8.0\refint\Uslu_sayı_hesaplama.dll
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\obj\Debug\net8.0\Uslu_sayı_hesaplama.pdb
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\obj\Debug\net8.0\Uslu_sayı_hesaplama.genruntimeconfig.cache
+C:\Users\Kaan\source\repos\Proje\Uslu_sayı_hesaplama\Uslu_sayı_hesaplama\obj\Debug\net8.0\ref\Uslu_sayı_hesaplama.dll
